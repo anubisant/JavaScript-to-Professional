@@ -1,0 +1,21 @@
+Git commands
+
+1.  git checkout    #   projectiin huwilbariig huulj awah 
+2.  git init        #   insert git
+3.  git config --global username "username"
+4.  git config --global user.email "email@address.com"
+5.  git status      #   tusliin file uuda ymar baigaag haruulna
+6.  git add         #   file iin uurchlultiig repository-d hadgalaaar songono
+7.  git commit      #   songoson file aa repository-d bichne
+8.  git checkout    #   repository dotroos file butsaan gargan awah ustgasan bol butsaaj gargaj irne 
+9.  git push        #   local repository oos remote repository ruu upload hiine 
+10. git pull        #   remote repository dotroos file aa butsaan local repository ruu tataj awna
+
+Microsoft 4 terbum dollaraar hudaldaj awsan.
+
+
+git config --list   # settings
+git commit -am 'commits' # commit add hamtdaa
+
+create-react-app 
+    kill command =>  taskkill -F -IM node.exe
